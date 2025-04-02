@@ -53,7 +53,7 @@ const LoginPage = () => {
                                 </label>
                             </div>
                             <div>
-                                <Link to="/reset-password" className="txt1">
+                                <Link to="/enviaReset" className="txt1">
                                     Esqueceu a senha?
                                 </Link>
                             </div>
