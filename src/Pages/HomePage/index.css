@@ -1,0 +1,113 @@
+    .menu {
+        width: auto;
+        height: fit-content;
+    }
+
+    .nav {
+        width: auto;
+    }
+
+    .mid {
+
+        width: auto;
+        padding: 15px;
+        margin: auto;
+        color: #000000;
+        font-size: medium;
+
+
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 30px;
+        border-style: solid solid solid solid;
+        border-width: 10px 5px 10px 5px;
+        border-color: #006cb5 #fc8702 #006cb5 #fc8702;
+        background-color: rgb(255, 255, 255);
+
+    }
+
+    .letreiro1 {
+        font-size: 35px;
+        text-align: center;
+        font-family: 'Nunito Sans', sans-serif;
+        font-weight: bold;
+    }
+
+    .mid2 {
+        margin-left: 35%;
+        cursor: pointer;
+
+    }
+
+    .mid3 {
+
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: white;
+
+    }
+
+
+
+    .mid4 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.7);
+        /* background-color: #000000cc; */
+    }
+
+    .Portal1 {
+        font-weight: bold;
+        display: flex;
+        align-items: center;
+        margin-left: 3%; /* ou outro valor, se preferir */
+    }
+
+    .ListaComprovante {
+        text-align: center;
+    }
+
+    @media (max-width: 600px) {
+        .tableComprovante {
+          font-size: 14px;
+          width: 100%;
+        }
+      }
+    
+    .ListaComprovante {
+        max-width: 100%;
+        margin: 0 auto;
+      }
+
+    .tabela-scroll {
+        overflow: auto;
+        max-height: 300px; /* tamanho máximo do elemento */
+      }
+
+      .Footer {
+        margin-top: 50px; /* ajuste o valor conforme necessário */
+    
+
+      }
+
+      .tableComprovante th {
+       
+        font-size: 12px;
+      }
+
+      .h2texto {
+        color: #4b4b4b;
+        
+        
+      }
+
+
+     
