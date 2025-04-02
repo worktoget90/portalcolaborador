@@ -1,11 +1,6 @@
 import React, { useState } from "react";
 import InputMask from "react-input-mask";  // Importando a biblioteca para máscara de CPF
 import { useNavigate } from 'react-router-dom';
-// Importação Correta para ES Modules (ESM)
-import { cloneElement } from 'react';
-
-// Se estiver usando CommonJS (sem "type": "module" no package.json)
-
 
 
 
