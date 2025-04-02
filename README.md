@@ -1,6 +1,6 @@
 # Projeto de Autenticação e Recuperação de Senha
 ![Imagem do Projeto](https://i.ibb.co/5WVkMzxZ/index.png)
-![Imagem do Projeto](https://i.ibb.co/C5MyhWtc/pagina-reser.png)
+
 
 Este projeto consiste em um sistema simples de login e recuperação de senha utilizando **React**, onde os usuários podem se autenticar, além de solicitar a recuperação de senha utilizando o CPF.
 
@@ -24,6 +24,7 @@ A página de login permite que o usuário insira seu **email** e **senha** para 
 - **Redirecionamento** para página de **cadastro**.
 
 ### 2. Tela de Recuperação de Senha (EnviaReset)
+![Imagem do Projeto](https://i.ibb.co/C5MyhWtc/pagina-reser.png)
 
 A página de recuperação de senha permite que o usuário insira o **CPF** cadastrado para receber um link de recuperação de senha. A validação do CPF é realizada em tempo real, utilizando uma máscara de CPF.
 
