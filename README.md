@@ -1,5 +1,5 @@
 # Projeto de Autenticação e Recuperação de Senha
-![Imagem do Projeto](https://i.ibb.co/nqMfFBDW/index.png)
+![Imagem do Projeto](https://i.ibb.co/5WVkMzxZ/index.png)
 
 Este projeto consiste em um sistema simples de login e recuperação de senha utilizando **React**, onde os usuários podem se autenticar, além de solicitar a recuperação de senha utilizando o CPF.
 
